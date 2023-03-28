@@ -1,23 +1,28 @@
- # Hello there
-I am Meghana, a Computer science student from Vignan's Institute of Management and Technology for Women, India.
+ # Hello there!
+I am Meghana.
 
 
 ## Socials
 
-<div align='center'>
-<a href='mailto://meghanas1002@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-<a href='https://www.linkedin.com/in/meghana-sorra-1b3545214/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
-</div>
+<div align='left'><ul >
+<li><a href='mailto://meghanas1002@gmail.com' target='_blank'>Gmail</a></li>
+<li><a href='https://www.linkedin.com/in/meghana-sorra-1b3545214/' target='_blank'>LinkedIn</a></li>
+</ul></div>
 
 
 ## Skills
 
-<div align='center'>
-<img src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-<img src='https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white'>
-<img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'>
-<img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'>
-</div>
+<div align='left'><ul>
+ <li>C</li>
+ <li>C++</li>
+ <li>HTML5</li>
+ <li>CSS3</li>
+</ul></div>
+
+## Working on
+
+Python<br>
+JavaScript
             
         
             
