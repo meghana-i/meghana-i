@@ -6,7 +6,6 @@ I am Meghana, a Computer science student from Vignan's Institute of Management a
 
 <div align='center'>
 <a href='mailto://meghanas1002@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-<a href='https://www.instagram.com/_meghana_42/' target='_blank'><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 <a href='https://www.linkedin.com/in/meghana-sorra-1b3545214/' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
 
