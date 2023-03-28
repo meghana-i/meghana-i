@@ -1,5 +1,5 @@
  # Hello there
-I am Meghana, a Computer science student from vignan's institute of management and technology for women, India.
+I am Meghana, a Computer science student from Vignan's Institute of Management and Technology for Women, India.
 
 
 ## Socials
